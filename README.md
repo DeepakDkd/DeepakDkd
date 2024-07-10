@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Dhakad</h1>
-<h3 align="center">Frontend React developer and currently learning Java and springboot.</h3>
+<h3 align="center">Full stack developer - REACT JS | TAILWIND | NEXT JS | NUXT JS | EXPRESS JS | NODE JS .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdkd&label=Profile%20views&color=0e75b6&style=flat" alt="deepakdkd" /> </p>
 
